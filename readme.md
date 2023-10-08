@@ -1,5 +1,4 @@
-Dies ist ein kleines Python script um ein Passwort zu generieren.import random
-
+Dies ist ein kleines Python script um ein Passwort zu generieren
 
 Anforderungen an das Passwort
 
