@@ -1,4 +1,7 @@
-Anforderungen an ein Passwort
+Dies ist ein kleines Python script um ein Passwort zu generieren.import random
+
+
+Anforderungen an das Passwort
 
 Zeichenlänge:   Variabel
 zeichen:        mind. 3x Kleinbuchstaben
